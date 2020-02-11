@@ -1,5 +1,5 @@
-# -jdBuyMask
-> 下载代码，添加商品id即可快速下单抢购到口罩(如果有的话，此处手动狗头)。
+# -jdBuyMask 京东口罩抢购助手
+> 下载代码，添加商品id即可快速下单抢购到口罩(如果有的话)。
 
 ### 环境准备
 
@@ -33,4 +33,4 @@
 
 
 
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://github.com/bn0901/-jdBuyMask/raw/master/structure.png)
